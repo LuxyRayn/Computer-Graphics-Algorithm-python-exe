@@ -16,4 +16,14 @@ For better use, I have made a main.py(you can find it in "ui" document) file
 
 
 ***To run this project correctly, you must install the "wxpython" module***
-***The 1111.fbp file is the wxFormBuilder file***
+
+**The 1111.fbp file is the wxFormBuilder file**
+
+
+# Setup.exe
+
+This is the package of the whole project
+
+Download it and install, you can find the main.exe file in "./dist/main/main.exe"
+
+In this way, you don't have to use the IDE to run the project.
