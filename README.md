@@ -13,5 +13,7 @@ Each algorithm has been visualized respectively
 For better use, I have made a main.py(you can find it in "ui" document) file
   you can adjust different paraments in the App
   
-  
+
+
+***To run this project correctly, you must install the "wxpython" module***
 ***The 1111.fbp file is the wxFormBuilder file***
